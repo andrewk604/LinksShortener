@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://Andrey:vfybuhfvvf773@cluster0.tkg17.mongodb.net/LinkShortener?retryWrites=true&w=majority",
+    "jwtSecret": "andrey",
+    "baseUrl" : "http://localhost:5000"
+}
